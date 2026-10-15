@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+inventory.db
+.env
+static/qr/*.png

@@ -1,0 +1,5 @@
+barcode,name,description,current_weight,max_capacity,unit,hazard,location
+ACID001,Hydrochloric Acid,Strong acid used for laboratory work,850,1000,g,Dangerous,Cabinet A
+BASE001,Sodium Hydroxide,Solid base for laboratory work,420,500,g,Dangerous,Cabinet B
+SALT001,Sodium Chloride,Common laboratory salt,900,1000,g,General,Shelf 1
+SOLV001,Example Solvent,Demo solvent record,180,1000,mL,Hazardous,Cabinet C
